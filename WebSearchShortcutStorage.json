@@ -1,0 +1,55 @@
+{
+  "Google": {
+    "Url": "https://www.google.com/search?q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "gl"
+  },
+  "GitHub": {
+    "Url": "https://www.github.com/search?q=%s",
+    "Keyword": "gh"
+  },
+  "YouTube": {
+    "Url": "https://www.youtube.com/results?search_query=%s",
+    "Keyword": "yt"
+  },
+  "youtube english": {
+    "Url": "https://youglish.com/pronounce/%s/english",
+    "Keyword": "yg"
+  },
+  "ChatGPT": {
+    "Url": "https://chat.openai.com/?q=%s",
+    "Keyword": "gpt"
+  },
+  "VoiceTube": {
+    "Url": "https://tw.voicetube.com/definition/%s",
+    "Keyword": "vv"
+  },
+  "Cambridge": {
+    "url": "https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/%s",
+    "keyword": "v"
+  },
+  "google IMAG": {
+    "url": "https://www.google.com/search?sca_esv=d9c6040e85f27d53&sca_upv=1&q=%s&udm=2&fbs=AEQNm0AaBOazvTRM_Uafu9eNJJzC3QMRKTS5UIeA1ZwBo3sfI5tRK2wzmp0oTr82Uvr9kDU5RO0xZEAgPH8kQ6uw4YLunM3v0SiC3q_XW-LmY4vfOqHydG8DIHHp07v-HliTPXfj63jiznNs5DK1oupGrYZQ0kdvnDll4idtYGRzejwPD9-c5yqpYFODu4PqEWXokjk4S8w-&sa=X&ved=2ahUKEwjwnPTzkuWIAxWESfUHHZCWAU4QtKgLegQIKxAB&biw=1439&bih=986&dpr=1.25",
+    "keyword": "img"
+  },
+  "google translate": {
+    "url": "https://translate.google.com.tw/?sl=en&tl=zh-TW&op=translate&text=%s",
+    "keyword": "t"
+  },
+  "Microsoft deep search": {
+    "url": "https://www.bing.com/search?q=%s&shm=cr&form=DEEPSH",
+    "keyword": "mds"
+  },
+  "felo deep search":{
+    "url": "https://felo.ai/zh-Hant/search?q=%s",
+    "keyword": "fl"
+  },
+  "Perplexity Search": {
+    "url": "https://www.perplexity.ai?q=%s",
+    "keyword": "ps"
+  },
+  "grok search":{
+    "url": "https://grok.com/?q=%s",
+    "keyword": "gs"
+  }
+}

@@ -16,3 +16,4 @@ Enhance your PowerToys experience with useful extensions. You can explore additi
 * **Weather:** Get weather updates directly within PowerToys. [GitHub](https://github.com/ruslanlap/PowerToysRun-Weather)
 * **Pomodoro:** Implement the Pomodoro technique with ease. [GitHub](https://github.com/ruslanlap/PowerToysRun-Pomodoro)
 * **Timer** quickly setting timer [Github](https://github.com/CoreyHayward/PowerToys-Run-Timer)
+* **NetSpeedTest** test download/upload/ping speed [Github](https://github.com/ruslanlap/PowerToysRun-SpeedTest?tab=readme-ov-file#-features)

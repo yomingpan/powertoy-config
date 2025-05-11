@@ -15,3 +15,4 @@ Enhance your PowerToys experience with useful extensions. You can explore additi
 * **QuickNotes:** Take quick notes and access them instantly. [GitHub](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes)
 * **Weather:** Get weather updates directly within PowerToys. [GitHub](https://github.com/ruslanlap/PowerToysRun-Weather)
 * **Pomodoro:** Implement the Pomodoro technique with ease. [GitHub](https://github.com/ruslanlap/PowerToysRun-Pomodoro)
+* **Timer** quickly setting timer [Github](https://github.com/CoreyHayward/PowerToys-Run-Timer)
